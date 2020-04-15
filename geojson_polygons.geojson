@@ -38,7 +38,8 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "turbidwater"
+        "class": "turbidwater",
+        "user": "nat"
       },
       "geometry": {
         "type": "Polygon",
@@ -71,7 +72,8 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "mud"
+        "class": "mud",
+        "user": "nat"
       },
       "geometry": {
         "type": "Polygon",
@@ -104,7 +106,8 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "mangrove1"
+        "class": "mangrove1",
+        "user": "nat"
       },
       "geometry": {
         "type": "Polygon",
@@ -137,7 +140,8 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "mangrove2"
+        "class": "mangrove2",
+        "user": "nat"
       },
       "geometry": {
         "type": "Polygon",
