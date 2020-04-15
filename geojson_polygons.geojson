@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "cleanwater"
+        "class": "cleanwater",
+        "user": "nat"
       },
       "geometry": {
         "type": "Polygon",
