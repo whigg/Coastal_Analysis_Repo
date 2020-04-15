@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "class": "cleanwater",
-        "user": "nat"
+        "user": "nat",
+        "location": "ambanja"
       },
       "geometry": {
         "type": "Polygon",
@@ -39,7 +40,8 @@
       "type": "Feature",
       "properties": {
         "class": "turbidwater",
-        "user": "nat"
+        "user": "nat",
+        "location": "ambanja"
       },
       "geometry": {
         "type": "Polygon",
@@ -73,7 +75,8 @@
       "type": "Feature",
       "properties": {
         "class": "mud",
-        "user": "nat"
+        "user": "nat",
+        "location": "ambanja"
       },
       "geometry": {
         "type": "Polygon",
@@ -107,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "class": "mangrove1",
-        "user": "nat"
+        "user": "nat",
+        "location": "ambanja"
       },
       "geometry": {
         "type": "Polygon",
@@ -141,7 +145,8 @@
       "type": "Feature",
       "properties": {
         "class": "mangrove2",
-        "user": "nat"
+        "user": "nat",
+        "location": "ambanja"
       },
       "geometry": {
         "type": "Polygon",
